@@ -88,7 +88,7 @@ Add screenshots of the game here.
 
 ## Author
 
-Mohammed Mezour
+Yahia Baamara
 
 ## License
 
